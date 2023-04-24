@@ -8,9 +8,7 @@ class CountEmployee {
         System.out.println("Hello");
     }
 
-    {
-        System.out.println("Welcome ");
-    }
+
 
     CountEmployee(String name, int id) {
         count++;

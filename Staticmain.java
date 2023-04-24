@@ -16,6 +16,7 @@ class Staticmain {
         System.out.println(CountEmployee.count);;
         c3.display();
         CountEmployee.count();
+        System.out.println(CountEmployee.count);;
     }
 
 }
